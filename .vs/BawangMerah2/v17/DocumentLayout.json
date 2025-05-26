@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yan\\Downloads\\BawangMerah2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F3B058-4C81-472A-B07A-A2DD12513929}|BawangMerah2\\BawangMerah2.csproj|c:\\users\\yan\\downloads\\bawangmerah2\\bawangmerah2\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3F3B058-4C81-472A-B07A-A2DD12513929}|BawangMerah2\\BawangMerah2.csproj|solutionrelative:bawangmerah2\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F3B058-4C81-472A-B07A-A2DD12513929}|BawangMerah2\\BawangMerah2.csproj|c:\\users\\yan\\downloads\\bawangmerah2\\bawangmerah2\\controller\\transaksicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3F3B058-4C81-472A-B07A-A2DD12513929}|BawangMerah2\\BawangMerah2.csproj|solutionrelative:bawangmerah2\\controller\\transaksicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F3B058-4C81-472A-B07A-A2DD12513929}|BawangMerah2\\BawangMerah2.csproj|c:\\users\\yan\\downloads\\bawangmerah2\\bawangmerah2\\model\\transaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3F3B058-4C81-472A-B07A-A2DD12513929}|BawangMerah2\\BawangMerah2.csproj|solutionrelative:bawangmerah2\\model\\transaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F3B058-4C81-472A-B07A-A2DD12513929}|BawangMerah2\\BawangMerah2.csproj|c:\\users\\yan\\downloads\\bawangmerah2\\bawangmerah2\\model\\transaksiquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3F3B058-4C81-472A-B07A-A2DD12513929}|BawangMerah2\\BawangMerah2.csproj|solutionrelative:bawangmerah2\\model\\transaksiquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransaksiController.cs",
+              "DocumentMoniker": "C:\\Users\\Yan\\Downloads\\BawangMerah2\\BawangMerah2\\Controller\\TransaksiController.cs",
+              "RelativeDocumentMoniker": "BawangMerah2\\Controller\\TransaksiController.cs",
+              "ToolTip": "C:\\Users\\Yan\\Downloads\\BawangMerah2\\BawangMerah2\\Controller\\TransaksiController.cs",
+              "RelativeToolTip": "BawangMerah2\\Controller\\TransaksiController.cs",
+              "ViewState": "AgIAAB4AAAAAzszMzMwUwDIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T05:57:20.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Transaksi.cs",
+              "DocumentMoniker": "C:\\Users\\Yan\\Downloads\\BawangMerah2\\BawangMerah2\\Model\\Transaksi.cs",
+              "RelativeDocumentMoniker": "BawangMerah2\\Model\\Transaksi.cs",
+              "ToolTip": "C:\\Users\\Yan\\Downloads\\BawangMerah2\\BawangMerah2\\Model\\Transaksi.cs",
+              "RelativeToolTip": "BawangMerah2\\Model\\Transaksi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T05:54:10.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "transaksiQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Yan\\Downloads\\BawangMerah2\\BawangMerah2\\Model\\transaksiQuery.cs",
+              "RelativeDocumentMoniker": "BawangMerah2\\Model\\transaksiQuery.cs",
+              "ToolTip": "C:\\Users\\Yan\\Downloads\\BawangMerah2\\BawangMerah2\\Model\\transaksiQuery.cs",
+              "RelativeToolTip": "BawangMerah2\\Model\\transaksiQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T05:45:22.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Yan\\Downloads\\BawangMerah2\\BawangMerah2\\View\\Form1.cs",
+              "RelativeDocumentMoniker": "BawangMerah2\\View\\Form1.cs",
+              "ToolTip": "C:\\Users\\Yan\\Downloads\\BawangMerah2\\BawangMerah2\\View\\Form1.cs",
+              "RelativeToolTip": "BawangMerah2\\View\\Form1.cs",
+              "ViewState": "AgIAABkAAADAAgAAAIAwwCIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T05:45:09.979Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+D:\pemrograman visual uji coba\BawangMerah2\BawangMerah2\BawangMerah2\bin\Debug\BawangMerah2.exe.config
+D:\pemrograman visual uji coba\BawangMerah2\BawangMerah2\BawangMerah2\bin\Debug\BawangMerah2.exe
+D:\pemrograman visual uji coba\BawangMerah2\BawangMerah2\BawangMerah2\bin\Debug\BawangMerah2.pdb
+D:\pemrograman visual uji coba\BawangMerah2\BawangMerah2\BawangMerah2\obj\Debug\BawangMerah2.csproj.AssemblyReference.cache
+D:\pemrograman visual uji coba\BawangMerah2\BawangMerah2\BawangMerah2\obj\Debug\BawangMerah2.Form1.resources
+D:\pemrograman visual uji coba\BawangMerah2\BawangMerah2\BawangMerah2\obj\Debug\BawangMerah2.Properties.Resources.resources
+D:\pemrograman visual uji coba\BawangMerah2\BawangMerah2\BawangMerah2\obj\Debug\BawangMerah2.csproj.GenerateResource.cache
+D:\pemrograman visual uji coba\BawangMerah2\BawangMerah2\BawangMerah2\obj\Debug\BawangMerah2.csproj.CoreCompileInputs.cache
+D:\pemrograman visual uji coba\BawangMerah2\BawangMerah2\BawangMerah2\obj\Debug\BawangMerah2.exe
+D:\pemrograman visual uji coba\BawangMerah2\BawangMerah2\BawangMerah2\obj\Debug\BawangMerah2.pdb
+D:\MatkulPemrogramanVisual\BawangMerah2\BawangMerah2\BawangMerah2\bin\Debug\BawangMerah2.exe.config
+D:\MatkulPemrogramanVisual\BawangMerah2\BawangMerah2\BawangMerah2\bin\Debug\BawangMerah2.exe
+D:\MatkulPemrogramanVisual\BawangMerah2\BawangMerah2\BawangMerah2\bin\Debug\BawangMerah2.pdb
+D:\MatkulPemrogramanVisual\BawangMerah2\BawangMerah2\BawangMerah2\obj\Debug\BawangMerah2.csproj.AssemblyReference.cache
+D:\MatkulPemrogramanVisual\BawangMerah2\BawangMerah2\BawangMerah2\obj\Debug\BawangMerah2.Form1.resources
+D:\MatkulPemrogramanVisual\BawangMerah2\BawangMerah2\BawangMerah2\obj\Debug\BawangMerah2.Properties.Resources.resources
+D:\MatkulPemrogramanVisual\BawangMerah2\BawangMerah2\BawangMerah2\obj\Debug\BawangMerah2.csproj.GenerateResource.cache
+D:\MatkulPemrogramanVisual\BawangMerah2\BawangMerah2\BawangMerah2\obj\Debug\BawangMerah2.csproj.CoreCompileInputs.cache
+D:\MatkulPemrogramanVisual\BawangMerah2\BawangMerah2\BawangMerah2\obj\Debug\BawangMerah2.exe
+D:\MatkulPemrogramanVisual\BawangMerah2\BawangMerah2\BawangMerah2\obj\Debug\BawangMerah2.pdb
+D:\MatkulPemrogramanVisual\BawangMerah2\BawangMerah2\BawangMerah2\obj\Debug\BawangMerah2.Form2.resources
+C:\Users\Yan\Downloads\BawangMerah2\BawangMerah2\bin\Debug\BawangMerah2.exe.config
+C:\Users\Yan\Downloads\BawangMerah2\BawangMerah2\bin\Debug\BawangMerah2.exe
+C:\Users\Yan\Downloads\BawangMerah2\BawangMerah2\bin\Debug\BawangMerah2.pdb
+C:\Users\Yan\Downloads\BawangMerah2\BawangMerah2\obj\Debug\BawangMerah2.csproj.AssemblyReference.cache
+C:\Users\Yan\Downloads\BawangMerah2\BawangMerah2\obj\Debug\BawangMerah2.Form1.resources
+C:\Users\Yan\Downloads\BawangMerah2\BawangMerah2\obj\Debug\BawangMerah2.Form2.resources
+C:\Users\Yan\Downloads\BawangMerah2\BawangMerah2\obj\Debug\BawangMerah2.Properties.Resources.resources
+C:\Users\Yan\Downloads\BawangMerah2\BawangMerah2\obj\Debug\BawangMerah2.csproj.GenerateResource.cache
+C:\Users\Yan\Downloads\BawangMerah2\BawangMerah2\obj\Debug\BawangMerah2.csproj.CoreCompileInputs.cache
+C:\Users\Yan\Downloads\BawangMerah2\BawangMerah2\obj\Debug\BawangMerah2.exe
+C:\Users\Yan\Downloads\BawangMerah2\BawangMerah2\obj\Debug\BawangMerah2.pdb
+C:\Users\Yan\Downloads\BawangMerah2\BawangMerah2\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Yan\Downloads\BawangMerah2\BawangMerah2\bin\Debug\Google.Protobuf.dll
+C:\Users\Yan\Downloads\BawangMerah2\BawangMerah2\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Yan\Downloads\BawangMerah2\BawangMerah2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Yan\Downloads\BawangMerah2\BawangMerah2\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Yan\Downloads\BawangMerah2\BawangMerah2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Yan\Downloads\BawangMerah2\BawangMerah2\bin\Debug\MySql.Data.dll
+C:\Users\Yan\Downloads\BawangMerah2\BawangMerah2\bin\Debug\System.Buffers.dll
+C:\Users\Yan\Downloads\BawangMerah2\BawangMerah2\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Yan\Downloads\BawangMerah2\BawangMerah2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Yan\Downloads\BawangMerah2\BawangMerah2\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Yan\Downloads\BawangMerah2\BawangMerah2\bin\Debug\System.Memory.dll
+C:\Users\Yan\Downloads\BawangMerah2\BawangMerah2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Yan\Downloads\BawangMerah2\BawangMerah2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Yan\Downloads\BawangMerah2\BawangMerah2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Yan\Downloads\BawangMerah2\BawangMerah2\bin\Debug\ZstdSharp.dll
+C:\Users\Yan\Downloads\BawangMerah2\BawangMerah2\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Yan\Downloads\BawangMerah2\BawangMerah2\bin\Debug\Google.Protobuf.pdb
+C:\Users\Yan\Downloads\BawangMerah2\BawangMerah2\bin\Debug\Google.Protobuf.xml
+C:\Users\Yan\Downloads\BawangMerah2\BawangMerah2\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Yan\Downloads\BawangMerah2\BawangMerah2\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Yan\Downloads\BawangMerah2\BawangMerah2\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Yan\Downloads\BawangMerah2\BawangMerah2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Yan\Downloads\BawangMerah2\BawangMerah2\bin\Debug\MySql.Data.xml
+C:\Users\Yan\Downloads\BawangMerah2\BawangMerah2\bin\Debug\System.Buffers.xml
+C:\Users\Yan\Downloads\BawangMerah2\BawangMerah2\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Yan\Downloads\BawangMerah2\BawangMerah2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Yan\Downloads\BawangMerah2\BawangMerah2\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Yan\Downloads\BawangMerah2\BawangMerah2\bin\Debug\System.Memory.xml
+C:\Users\Yan\Downloads\BawangMerah2\BawangMerah2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Yan\Downloads\BawangMerah2\BawangMerah2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Yan\Downloads\BawangMerah2\BawangMerah2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Yan\Downloads\BawangMerah2\BawangMerah2\obj\Debug\BawangMe.7171CAA9.Up2Date
